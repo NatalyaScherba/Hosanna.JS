@@ -1,0 +1,25 @@
+!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+
+<body>
+    <h2>Product list</h2>
+    <div><label>Milk</label><input type=checkbox></div>
+    <div><label>Bread</label><input type=checkbox></div>
+    <div><label>Coffee</label><input type=checkbox></div>
+    <div><label>Butter</label><input type=checkbox></div>
+    <div><label>Eggs</label><input type=checkbox></div>
+    <div><label>Apples</label><input type=checkbox></div>
+    <div><label>Avocado</label><input type=checkbox></div>
+    <div><label>Yogurt</label><input type=checkbox></div>
+    <div><label>Water</label><input type=checkbox></div>
+    <h4><label>Finish</label><input type=checkbox></h4>
+</body>
+
+</html>
