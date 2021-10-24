@@ -1,0 +1,125 @@
+.border{
+    border: solid 1px black;
+    margin-left: 219px;
+    margin-right: 219px; 
+}
+
+.container1{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.flex-item1{
+    background: yellow;
+    width: 1000px;
+    height: 50px;
+    text-align: center;
+}
+.container2{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    align-content: stretch;
+}
+.flex-item2{
+    background: yellowgreen;
+    width: 1000px;
+    height: 140px;
+    text-align: center;
+    color: white;
+}
+.container3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.flex-item3{
+    background: black;
+    width: 1000px;
+    height: 30px;
+}
+.link{
+    background: black;
+    color: white;
+    margin: 15px;
+    text-align: center;
+    align-content: center;
+}
+.container4{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
+.flex-item4{
+    flex-direction: column;
+    background: silver;
+    width: 280px;
+    height: 800px;
+    padding: 10px;
+    align-items: flex-start;
+    align-content: flex-start;
+    text-align: start;
+}
+.box1{
+    flex-direction: column;
+    background: grey;
+    width: 260px;
+    height: 160px;
+    padding: 5px;
+    margin: 5px;
+    text-align: start;
+}
+.flex-item5{
+    flex-direction: column;
+    width: 680px;
+    height:800px;
+    padding: 10px;
+    align-content: flex-start;
+    align-content: flex-start; 
+    text-align: start;
+}
+.box2{
+    flex-direction: column;
+    background: grey;
+    margin: 5px;
+    text-align: start;
+    width: 660px;
+    height: 160px;
+    padding: 5px;
+}
+.box3{
+    flex-direction: column;
+    background: grey;
+    width: 660px;
+    height: 160px;
+    padding: 5px;
+    margin: 5px;
+    text-align: start;
+}
+.mini-boxes{
+    flex-direction: column;
+    background: grey;
+    width: 260px;
+    height: 40px;
+    padding: 5px;
+    margin: 5px;
+    text-align: start;
+}
+.container5{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    align-content: center;
+    background: grey;
+    height: 100px;
+    
+}
+
+.img {
+    padding-top: 5px;
+    padding-left: 20px;
+}
+
