@@ -1,0 +1,108 @@
+ body{
+    width: 100%;
+    justify-content: center;
+    display: flex; 
+}
+.parrent{
+    width: 500px;
+    height: 500px; 
+    border: solid black 5px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%)
+}
+.circle{
+    width: 280px;
+    height: 280px;
+    border-radius: 150px;
+    border: solid black 5px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%)
+}
+.cube1{
+    position: relative;
+    width: 60px;
+    height: 60px;
+    border: solid black 5px;
+    top: 116px;
+    left: 117px;
+    right: 0px;
+    bottom: 0px;
+}
+.cube2{
+    position: relative;
+    width: 60px;
+    height: 60px;
+    border: solid black 5px;
+    top: 243px;
+    left: 117px;
+    right: 0px;
+    bottom: 0px;
+}
+.cube3{
+    position: relative;
+    width: 60px;
+    height: 60px;
+    border: solid black 5px;
+    top: 173px;
+    left: 314px;
+    right: 0px;
+    bottom: 0px;
+}
+.cube4{
+    position: relative;
+    width: 60px;
+    height: 60px;
+    border: solid black 5px;
+    top: -92px;
+    left: 314px;
+    right: 0px;
+    bottom: 0px;
+}
+.block1{
+    position: relative;
+    width: 60px;
+    height: 60px;
+    border-radius: 27px;
+    border: solid black 5px;
+    top: -310px;
+    left: -29px;
+    right: 0px;
+    bottom: 0px;
+}
+.block2{
+    position: relative;
+    width: 60px;
+    height: 60px;
+    border-radius: 27px;
+    border: solid black 5px;
+    top: -379px;
+    left: 459px;
+    right: 0px;
+    bottom: 0px;
+}
+.block3{
+    position: relative;
+    width: 60px;
+    height: 60px;
+    border-radius: 27px;
+    border: solid black 5px;
+    top: 39px;
+    left: 459px;
+    right: 0px;
+    bottom: 0px;
+}
+.block4{
+    position: relative;
+    width: 60px;
+    height: 60px;
+    border-radius: 27px;
+    border: solid black 5px;
+    top: -31px;
+    left: -29px;
+    right: 0px;
+    bottom: 0px;
+}
