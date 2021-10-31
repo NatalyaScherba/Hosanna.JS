@@ -1,0 +1,53 @@
+body{
+    width: 100%;
+    height: 1500px;
+    justify-content: center;
+    display: flex; 
+     margin-top: 100px;
+}
+ .cube1{ 
+    display: flex;
+    width: 383px;
+    height: 400px;
+    justify-content: space-around;
+    flex-wrap: wrap; 
+    position: fixed; 
+
+}
+.block{
+    visibility: visible;
+    width: 30px;
+    height: 30px;
+    border: solid silver 1px;
+    border-radius: 5px;
+    background: silver;
+    
+}
+.block1{
+    visibility: hidden;
+    width: 30px;
+    height: 30px;
+    border: solid 1px;;
+}
+.cube2{ 
+    margin-top: 800px;
+    width: 383px;
+    height: 400px;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap; 
+}
+.block2{
+    visibility: visible;
+    width: 30px;
+    height: 30px;
+    border: solid black 1px;
+    border-radius: 5px;
+    background: black;
+}
+.block3{
+    visibility: hidden;
+    width: 30px;
+    height: 30px;
+    border: solid 1px;;
+}
