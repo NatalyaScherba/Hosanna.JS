@@ -1,0 +1,303 @@
+body {
+
+    background: url(https://wallpapercave.com/wp/ZQXE9wI.jpg) repeat;
+    background-size: 100%;
+    width: 100%;
+    height: 100%;
+
+}
+
+.cube1 {
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    background: grey;
+    border: 1px wheat solid;
+    transition: 1s;
+}
+
+.cube1:hover{ 
+   width: 250px;
+   height: 250px;
+   box-shadow: white 10px 6px 20px;
+   z-index: 1;
+   
+}
+
+.cube2 {
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    margin-left: 20px;
+    margin-top: 20px;
+    background: paleturquoise;
+    border: 1px wheat solid;
+    transition: 1s;
+
+}
+
+.cube2:hover{ 
+    width: 250px;
+    height: 250px;
+    box-shadow: white 10px 6px 20px;
+    z-index: 1;
+} 
+
+.cube3 {
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    margin-left: 40px;
+    margin-top: 40px;
+    background: pink;
+    border: 1px wheat solid;
+    transition: 1s;
+
+}
+
+.cube3:hover{ 
+    width: 250px;
+    height: 250px;
+    box-shadow: white 10px 6px 20px;
+    z-index: 1;
+}
+
+.cube4 {
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    margin-left: 60px;
+    margin-top: 60px;
+    background: blueviolet;
+    border: 1px wheat solid;
+    transition: 1s;
+
+}
+
+.cube4:hover{ 
+    width: 250px;
+    height: 250px;
+    box-shadow: white 10px 6px 20px;
+    z-index: 1;
+
+}
+
+.cube5 {
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    margin-left: 80px;
+    margin-top: 80px;
+    background: rgb(43, 205, 226);
+    border: 1px wheat solid;
+    transition: 1s;
+
+}
+
+.cube5:hover{ 
+    width: 250px;
+    height: 250px;
+    box-shadow: white 10px 6px 20px;
+    z-index: 1;
+
+}
+
+.cube6 {
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    margin-left: 100px;
+    margin-top: 100px;
+    background: yellow;
+    border: 1px wheat solid;
+    transition: 1s;
+
+}
+
+.cube6:hover{ 
+    width: 250px;
+    height: 250px;
+    box-shadow: white 10px 6px 20px;
+    z-index: 1;
+
+}
+
+.cube7 {
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    margin-left: 120px;
+    margin-top: 120px;
+    background: rgb(11, 230, 182);
+    border: 1px wheat solid;
+    transition: 1s;
+
+}
+
+.cube7:hover{ 
+    width: 250px;
+    height: 250px;
+    box-shadow: white 10px 6px 20px;
+    z-index: 1;
+
+}
+
+.cube8 {
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    margin-left: 140px;
+    margin-top: 140px;
+    background: rgb(96, 130, 224);
+    border: 1px wheat solid;
+    transition: 1s;
+
+}
+
+.cube8:hover{ 
+    width: 250px;
+    height: 250px;
+    box-shadow: white 10px 6px 20px;
+    z-index: 1;
+
+}
+
+.cube9 {
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    margin-left: 160px;
+    margin-top: 160px;
+    background: rgb(238, 136, 229);
+    border: 1px wheat solid;
+    transition: 1s;
+
+}
+
+.cube9:hover{ 
+    width: 250px;
+    height: 250px;
+    box-shadow: white 10px 6px 20px;
+    z-index: 1;
+
+}
+
+.cube10 {
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    margin-left: 180px;
+    margin-top: 180px;
+    background: rgb(128, 65, 65);
+    border: 1px wheat solid;
+    transition: 1s;
+
+}
+
+.cube10:hover{ 
+    width: 250px;
+    height: 250px;
+    box-shadow: white 10px 6px 20px;
+    z-index: 1;
+
+}
+
+.cube11 {
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    margin-left: 200px;
+    margin-top: 200px;
+    background: rgb(243, 119, 119);
+    border: 1px wheat solid;
+    transition: 1s;
+
+}
+
+.cube11:hover{ 
+    width: 250px;
+    height: 250px;
+    box-shadow: white 10px 6px 20px;
+    z-index: 1;
+
+}
+
+.cube12 {
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    margin-left: 220px;
+    margin-top: 220px;
+    background: rgb(137, 184, 238);
+    border: 1px wheat solid;
+    transition: 1s;
+
+}
+
+.cube12:hover{ 
+    width: 250px;
+    height: 250px;
+    box-shadow: white 10px 6px 20px;
+    z-index: 1;
+
+}
+
+.cube13 {
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    margin-left: 240px;
+    margin-top: 240px;
+    background: rgb(145, 90, 156);
+    border: 1px wheat solid;
+    transition: 1s;
+
+}
+
+.cube13:hover{ 
+    width: 250px;
+    height: 250px;
+    box-shadow: white 10px 6px 20px;
+    z-index: 1;
+
+}
+
+.cube14 {
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    margin-left: 260px;
+    margin-top: 260px;
+    background: rgb(145, 240, 136);
+    border: 1px wheat solid;
+    transition: 1s;
+
+}
+
+.cube14:hover{ 
+    width: 250px;
+    height: 250px;
+    box-shadow: white 10px 6px 20px;
+    z-index: 1;
+
+}
+
+.cube15 {
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    margin-left: 280px;
+    margin-top: 280px;
+    background: rgb(16, 85, 9);
+    border: 1px wheat solid;
+    transition: 1s;
+
+}
+
+.cube15:hover{ 
+    width: 250px;
+    height: 250px;
+    box-shadow: white 10px 6px 20px;
+    z-index: 1;
+
+}
